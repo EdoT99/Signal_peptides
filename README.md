@@ -1,1 +1,1 @@
-# Signal_peptides
+The project aims to compare two deterministic methods: Gunnar Von Heijne model and SVM for predicting secretary signal peptides in proteins which is of primary importance in localizing protein compartment and functional characterization.
